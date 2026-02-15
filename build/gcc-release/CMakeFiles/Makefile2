@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/paullopez/Desktop/cpp-workspace/design-patterns-modern
+CMAKE_SOURCE_DIR = /home/paullopez/cpp-workspace/design-patterns-modern
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release
+CMAKE_BINARY_DIR = /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -97,14 +97,14 @@ clean: CMakeFiles/c_command.dir/clean
 CMakeFiles/strategy_classic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/strategy_classic.dir/build.make CMakeFiles/strategy_classic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/strategy_classic.dir/build.make CMakeFiles/strategy_classic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=11,12 "Built target strategy_classic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=11,12 "Built target strategy_classic"
 .PHONY : CMakeFiles/strategy_classic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/strategy_classic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/strategy_classic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/strategy_classic.dir/rule
 
 # Convenience name for target.
@@ -123,14 +123,14 @@ CMakeFiles/strategy_classic.dir/clean:
 CMakeFiles/strategy_modern.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/strategy_modern.dir/build.make CMakeFiles/strategy_modern.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/strategy_modern.dir/build.make CMakeFiles/strategy_modern.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=13,14 "Built target strategy_modern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=13,14 "Built target strategy_modern"
 .PHONY : CMakeFiles/strategy_modern.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/strategy_modern.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/strategy_modern.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/strategy_modern.dir/rule
 
 # Convenience name for target.
@@ -149,14 +149,14 @@ CMakeFiles/strategy_modern.dir/clean:
 CMakeFiles/visitor_classic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/visitor_classic.dir/build.make CMakeFiles/visitor_classic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/visitor_classic.dir/build.make CMakeFiles/visitor_classic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=15,16 "Built target visitor_classic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=15,16 "Built target visitor_classic"
 .PHONY : CMakeFiles/visitor_classic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/visitor_classic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/visitor_classic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/visitor_classic.dir/rule
 
 # Convenience name for target.
@@ -175,14 +175,14 @@ CMakeFiles/visitor_classic.dir/clean:
 CMakeFiles/visitor_modern.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/visitor_modern.dir/build.make CMakeFiles/visitor_modern.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/visitor_modern.dir/build.make CMakeFiles/visitor_modern.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=17,18 "Built target visitor_modern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=17,18 "Built target visitor_modern"
 .PHONY : CMakeFiles/visitor_modern.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/visitor_modern.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/visitor_modern.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/visitor_modern.dir/rule
 
 # Convenience name for target.
@@ -201,14 +201,14 @@ CMakeFiles/visitor_modern.dir/clean:
 CMakeFiles/command_classic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/command_classic.dir/build.make CMakeFiles/command_classic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/command_classic.dir/build.make CMakeFiles/command_classic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=7,8 "Built target command_classic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=7,8 "Built target command_classic"
 .PHONY : CMakeFiles/command_classic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/command_classic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/command_classic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/command_classic.dir/rule
 
 # Convenience name for target.
@@ -227,14 +227,14 @@ CMakeFiles/command_classic.dir/clean:
 CMakeFiles/command_modern.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/command_modern.dir/build.make CMakeFiles/command_modern.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/command_modern.dir/build.make CMakeFiles/command_modern.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=9,10 "Built target command_modern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=9,10 "Built target command_modern"
 .PHONY : CMakeFiles/command_modern.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/command_modern.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/command_modern.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/command_modern.dir/rule
 
 # Convenience name for target.
@@ -253,14 +253,14 @@ CMakeFiles/command_modern.dir/clean:
 CMakeFiles/c_strategy.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_strategy.dir/build.make CMakeFiles/c_strategy.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_strategy.dir/build.make CMakeFiles/c_strategy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=3,4 "Built target c_strategy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=3,4 "Built target c_strategy"
 .PHONY : CMakeFiles/c_strategy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/c_strategy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/c_strategy.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/c_strategy.dir/rule
 
 # Convenience name for target.
@@ -279,14 +279,14 @@ CMakeFiles/c_strategy.dir/clean:
 CMakeFiles/c_visitor.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_visitor.dir/build.make CMakeFiles/c_visitor.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_visitor.dir/build.make CMakeFiles/c_visitor.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=5,6 "Built target c_visitor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=5,6 "Built target c_visitor"
 .PHONY : CMakeFiles/c_visitor.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/c_visitor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/c_visitor.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/c_visitor.dir/rule
 
 # Convenience name for target.
@@ -305,14 +305,14 @@ CMakeFiles/c_visitor.dir/clean:
 CMakeFiles/c_command.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_command.dir/build.make CMakeFiles/c_command.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_command.dir/build.make CMakeFiles/c_command.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=1,2 "Built target c_command"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles --progress-num=1,2 "Built target c_command"
 .PHONY : CMakeFiles/c_command.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/c_command.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/c_command.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles 0
 .PHONY : CMakeFiles/c_command.dir/rule
 
 # Convenience name for target.

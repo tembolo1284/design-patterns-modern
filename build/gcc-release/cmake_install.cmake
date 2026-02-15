@@ -1,4 +1,4 @@
-# Install script for directory: /home/paullopez/Desktop/cpp-workspace/design-patterns-modern
+# Install script for directory: /home/paullopez/cpp-workspace/design-patterns-modern
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/paullopez/cpp-workspace/design-patterns-modern/build/gcc-release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

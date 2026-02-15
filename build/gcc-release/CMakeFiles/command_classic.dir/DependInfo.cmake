@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/command/classic/main.cpp" "CMakeFiles/command_classic.dir/command/classic/main.cpp.o" "gcc" "CMakeFiles/command_classic.dir/command/classic/main.cpp.o.d"
+  "/home/paullopez/cpp-workspace/design-patterns-modern/command/classic/main.cpp" "CMakeFiles/command_classic.dir/command/classic/main.cpp.o" "gcc" "CMakeFiles/command_classic.dir/command/classic/main.cpp.o.d"
   )
 
 # Targets to which this target links.

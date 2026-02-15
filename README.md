@@ -1,6 +1,6 @@
 # Design Patterns: Classic C++ vs Modern C++ vs Pure C vs Rust
 
-> **One-liner:** Side-by-side implementations of Strategy, Visitor, and Command in classic OOP C++, modern value-semantic C++, pure C, and Rust — showing the full arc from inheritance-based polymorphism to data-oriented design across four languages.
+Side-by-side implementations of Strategy, Visitor, and Command in classic OOP C++, modern value-semantic C++, pure C, and Rust — showing the full arc from inheritance-based polymorphism to data-oriented design across four languages.
 
 ---
 

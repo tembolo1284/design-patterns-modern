@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/c/visitor.c" "CMakeFiles/c_visitor.dir/c/visitor.c.o" "gcc" "CMakeFiles/c_visitor.dir/c/visitor.c.o.d"
+  "/home/paullopez/cpp-workspace/design-patterns-modern/c/visitor.c" "CMakeFiles/c_visitor.dir/c/visitor.c.o" "gcc" "CMakeFiles/c_visitor.dir/c/visitor.c.o.d"
   )
 
 # Targets to which this target links.
