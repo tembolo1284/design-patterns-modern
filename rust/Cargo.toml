@@ -1,0 +1,16 @@
+[package]
+name = "design-patterns-rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "strategy"
+path = "src/bin/strategy.rs"
+
+[[bin]]
+name = "visitor"
+path = "src/bin/visitor.rs"
+
+[[bin]]
+name = "command"
+path = "src/bin/command.rs"
