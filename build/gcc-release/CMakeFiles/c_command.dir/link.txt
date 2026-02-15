@@ -1,0 +1,1 @@
+/usr/bin/gcc -O3 -DNDEBUG CMakeFiles/c_command.dir/c/command.c.o -o c_command  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/visitor_classic.dir/visitor/classic/main.cpp.o -o visitor_classic 

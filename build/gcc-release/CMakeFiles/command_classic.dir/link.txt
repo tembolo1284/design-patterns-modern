@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/command_classic.dir/command/classic/main.cpp.o -o command_classic 

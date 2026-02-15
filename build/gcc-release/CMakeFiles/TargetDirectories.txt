@@ -1,0 +1,11 @@
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/strategy_classic.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/strategy_modern.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/visitor_classic.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/visitor_modern.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/command_classic.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/command_modern.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/c_strategy.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/c_visitor.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/c_command.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/edit_cache.dir
+/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release/CMakeFiles/rebuild_cache.dir

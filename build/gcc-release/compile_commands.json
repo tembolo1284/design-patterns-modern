@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/strategy_classic.dir/strategy/classic/main.cpp.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/strategy/classic/main.cpp",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/strategy/classic/main.cpp"
+},
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/strategy_modern.dir/strategy/modern/main.cpp.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/strategy/modern/main.cpp",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/strategy/modern/main.cpp"
+},
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/visitor_classic.dir/visitor/classic/main.cpp.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/visitor/classic/main.cpp",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/visitor/classic/main.cpp"
+},
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/visitor_modern.dir/visitor/modern/main.cpp.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/visitor/modern/main.cpp",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/visitor/modern/main.cpp"
+},
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/command_classic.dir/command/classic/main.cpp.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/command/classic/main.cpp",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/command/classic/main.cpp"
+},
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/command_modern.dir/command/modern/main.cpp.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/command/modern/main.cpp",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/command/modern/main.cpp"
+},
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/gcc   -O3 -DNDEBUG -std=gnu11 -o CMakeFiles/c_strategy.dir/c/strategy.c.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/c/strategy.c",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/c/strategy.c"
+},
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/gcc   -O3 -DNDEBUG -std=gnu11 -o CMakeFiles/c_visitor.dir/c/visitor.c.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/c/visitor.c",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/c/visitor.c"
+},
+{
+  "directory": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/build/gcc-release",
+  "command": "/usr/bin/gcc   -O3 -DNDEBUG -std=gnu11 -o CMakeFiles/c_command.dir/c/command.c.o -c /home/paullopez/Desktop/cpp-workspace/design-patterns-modern/c/command.c",
+  "file": "/home/paullopez/Desktop/cpp-workspace/design-patterns-modern/c/command.c"
+}
+]

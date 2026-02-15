@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/command_modern.dir/command/modern/main.cpp.o -o command_modern 

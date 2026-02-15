@@ -1,0 +1,1 @@
+/usr/bin/gcc -O3 -DNDEBUG CMakeFiles/c_strategy.dir/c/strategy.c.o -o c_strategy  -lm 

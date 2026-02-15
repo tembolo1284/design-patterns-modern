@@ -1,0 +1,1 @@
+/usr/bin/gcc -O3 -DNDEBUG CMakeFiles/c_visitor.dir/c/visitor.c.o -o c_visitor  -lm 
